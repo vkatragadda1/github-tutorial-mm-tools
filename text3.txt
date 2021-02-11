@@ -1,0 +1,3 @@
+hello I've made a 3rd text file 
+let's add this to local repository and commit changes
+
